@@ -1,0 +1,13 @@
+{
+  "event_id": "evt-0001",
+  "event_type": "message_delivered",
+  "run_id": "run-20260328-001",
+  "task_id": "task-014",
+  "agent_id": "agent-3",
+  "status": "delivered",
+  "timestamp": "2026-03-28T15:01:00Z",
+  "details": {
+    "adapter": "cursor",
+    "attempt": 1
+  }
+}
