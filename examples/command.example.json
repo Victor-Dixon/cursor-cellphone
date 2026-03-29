@@ -1,0 +1,19 @@
+{
+  "message_id": "msg-0001",
+  "run_id": "run-20260328-001",
+  "task_id": "task-014",
+  "from_actor": "human",
+  "to_agent": "agent-3",
+  "message_type": "command",
+  "payload": {
+    "instruction": "Review merge gate regression and return structured result.",
+    "context_artifacts": [
+      ".agent_cellphone/runs/run-20260328-001/state/context.json"
+    ]
+  },
+  "priority": "normal",
+  "created_at": "2026-03-28T15:00:00Z",
+  "timeout_seconds": 900,
+  "requires_response": true,
+  "correlation_id": "corr-014"
+}

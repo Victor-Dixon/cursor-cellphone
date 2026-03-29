@@ -1,0 +1,18 @@
+{
+  "handoff_id": "handoff-0001",
+  "run_id": "run-20260328-001",
+  "task_id": "task-014",
+  "from_agent": "agent-3",
+  "to_agent": "agent-5",
+  "reason": "needs_review",
+  "summary": [
+    "Patch prepared",
+    "Need review for docs allowlist edge cases"
+  ],
+  "required_action": "Review artifact and approve or reject",
+  "context_artifacts": [
+    ".agent_cellphone/runs/run-20260328-001/responses/task-014-report.md"
+  ],
+  "created_at": "2026-03-28T15:10:00Z",
+  "correlation_id": "corr-014"
+}
